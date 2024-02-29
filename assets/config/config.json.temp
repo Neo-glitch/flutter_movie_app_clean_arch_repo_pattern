@@ -1,0 +1,6 @@
+// schema of json file used to store api crendentials and can be tracke by git.
+
+{
+    "apiKey": "your_api_key",
+    "apiHost": "your_api_host"
+}
